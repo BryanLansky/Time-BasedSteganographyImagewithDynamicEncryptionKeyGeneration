@@ -1,0 +1,89 @@
+Name   | Encryption key | Time | Secret Message
+1.png  | river		| 14:25| Hi there, are you okay?
+2.png  | house		| 14:25| I Can't See My Forehead
+3.png  | treeAndLeaf	| 14:25| Well Maybe It Is Stupid, But It's Also Dumb
+4.png  | houseAndstair	| 14:25| The Inner Machinations Of My Mind Are An Enigma.
+5.png  | sn0w		| 14:25| Is Mayonnaise An Instrument?
+6.png  | weAreBinusian	| 14:25| No, This Is Patrick!
+7.png  | webarebear	| 14:25| Sometimes we have to go deep inside ourselves to solve our problems because you are the only one person who know all about yourself.
+8.png  | rainbowclothes	| 14:25| Money can't replace friendship, I'd rather have no money than losing you
+9.png  | deepblack	| 14:25| Dumb people are just blissfully unaware of how dumb they are
+10.png | beaglepuppy	| 14:25| I'm so loyal, I haven't bathed in weeks!
+11.png | onicesport	| 14:25| Now that we're men, I changed my underwear.
+12.png | tailung	| 14:25| You cannot stop the unstoppable
+13.png | snowwhite	| 14:25| I wumbo, you wumbo. He, she, we wumbo
+14.png | lenaKey	| 14:25| This is a lena image.
+
+1. 8+Vtf7lNx1nnOXiqnGBrsePy1u5qsDfLZEm/giZVKuk=
+Insert Time = 338 milliseconds
+Extract Time = 116 milliseconds
+PSNR value is 79.32543847894496 dB
+
+2. W+YP0KHbKRfpnU3HZp9ItAW0buvXq5IGzCwn/vAHZtM=
+Insert Time = 335 milliseconds
+Extract Time = 121 milliseconds
+PSNR value is 78.9028923801369 dB
+
+3. zmBqP8n7wjj9QjQ1NJfpSNQ28y0R1U4CiKxMXspwc4vgBLpGaTJVykbNTC0knvJi
+Insert Time = 344 milliseconds
+Extract Time = 172 milliseconds
+PSNR value is 77.89674246725694 dB
+
+4. jfweTe1ZtXPP14bTVH98hKuPwpXb8wRq1vKpTnO2LZaKzj+ORrl/ReLTdtvwDbkFWOq13RfSU33dgvLh5Aog+Q==
+Insert Time = 317 milliseconds
+Extract Time = 116 milliseconds
+PSNR value is 76.34289325216918 dB
+
+5. 8N2EKH4cHVga5u3fqh8Rfpj0fYIhBQMMiqxDJhDilME=
+Insert Time = 324 milliseconds
+Extract Time = 119 milliseconds
+PSNR value is 79.18134908401193 dB
+
+6. eWxLjFFaTWydSL/aAMlanfrTJQlslmch2vxcwXMhNXE=
+Insert Time = 345 milliseconds
+Extract Time = 118 milliseconds
+PSNR value is 77.1048750052949 dB
+
+7. ZH9H8tZSIGd7jHRV3s2TwtPIDGIWfxijTc7CZ0JY3pijOLOjOx+XAEYlhUmw7NQhKr9XsvslXs+rqM3lKZT/DzZAmYw9HUYOi0If948H7GiId3hEJb4bJD785BYkgJ4RADs8kWx11Ht796yRnPVHmJWSaWsyBWUZ/xyB3nkItH9YhvpIap7UVjWpE1SaZXO3
+Insert Time = 500 milliseconds
+Extract Time = 144 milliseconds
+PSNR value is 81.95089885039064 dB
+
+8. u728DgFnO+pweHAEKwf8XrL3qzDzuT5LaAk2gkV4j7CrQxYc77qwzHYGUZjdFHoo3q/FGAGl50j71N8I297XfHPwmqUXfXtBbV7WBmgeip0=
+Insert Time = 455 milliseconds
+Extract Time = 129 milliseconds
+PSNR value is 83.98275803295971 dB
+
+9. 6pWKAF21wJhfDb1wfio2+RA3zgtSJuSwLXla6BFfQi0cwEFC6GxF1XY3U//t1nFiYI4txv+Q1l+JYsfgxUV2Ag==
+Insert Time = 331 milliseconds
+Extract Time = 114 milliseconds
+PSNR value is 73.40471689133678 dB
+
+10. mcpeC4k1+mgbqCpiJR6jr4LQ6eBUwqxDDFv4lXO6HmMDAMXsaXDJzEjo/Y88oB06
+Insert Time = 339 milliseconds
+Extract Time = 117 milliseconds
+PSNR value is 73.91058156621457 dB
+
+11. WNxY+bI1aaaxkBz36uWifJoUPF1FYJBZbRF0Gcm0G9ddWN+aiGjl5G841b20OLeS
+Insert Time = 341 milliseconds
+Extract Time = 117 milliseconds
+PSNR value is 73.64447643959686 dB
+
+12. K9nlMc7YKVxdXPEGWHis+/15cy8jwMTOpaDaqqKPisg=
+Insert Time = 329 milliseconds
+Extract Time = 118 milliseconds
+PSNR value is 76.5421550378674 dB
+
+13. kVuuc9hMVsqyNCOdsDs7Mt5cogRi44Ol5eG++lD/OsSL+z5DZiJqWZZb9g96QLiW
+Insert Time = 337 milliseconds
+Extract Time = 112 milliseconds
+PSNR value is 74.15915186445834 dB
+
+14. Q+EEPvPzP9eL98XF+BkuvNStzEm1ISyHsXDSX9T9zp0=
+Insert Time = 384 milliseconds
+Extract Time = 124 milliseconds
+PSNR value is 77.81455530669115 dB
+
+
+
+
